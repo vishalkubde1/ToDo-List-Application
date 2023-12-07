@@ -1,0 +1,19 @@
+@media (max-width:720px) {
+    #delete_all_task_btn, #add_task_btn {
+        width: 42% !important;
+    }
+}
+
+@media (max-width:500px) {
+    html{
+        font-size: 50% !important;
+    }
+}
+@media (max-width:300px) {
+    html{
+        font-size: 36% !important;
+    }
+    .task_action_btn{
+        padding: 0px !important;
+    }
+}
